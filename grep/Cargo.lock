@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "grey"
+name = "grep"
 version = "0.1.0"
 dependencies = [
  "encoding_rs",
